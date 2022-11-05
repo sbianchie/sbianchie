@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" width="200" />
+</div>
+<h1 align="Center"> Hi there 👋 Im Sergio Bianchi</h1>
+
 
 <!--
 **sbianchie/sbianchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
