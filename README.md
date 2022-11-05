@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" width="200" />
+	<img src="https://tenor.com/bsEHC.gif" />
 </div>
 <h1 align="Center"> Hi there 👋 Im Sergio Bianchi</h1>
 
