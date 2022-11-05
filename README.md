@@ -1,8 +1,7 @@
 <div id="header" align="center">
-	<img src="https://tenor.com/bsEHC.gif" />
-</div>
+	<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" />
 <h1 align="Center"> Hi there 👋 Im Sergio Bianchi</h1>
-
+</div>
 
 <!--
 **sbianchie/sbianchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
