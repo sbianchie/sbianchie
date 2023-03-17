@@ -2,8 +2,8 @@
 	<img src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" width="200" />
 </div>
 <h1 align="Center"> Hi there 👋 Im Sergio Bianchi</h1>
-<h3 align="Center"> Ingeniero en Desarrollo Computacional recién egresado de la Maestría en Ciencia de Datos con experiencia
-	en el análisis e interpretación de datos e implementación y pruebas de modelos de Machine Learning.
+<h3 align="Center"> 
+Computer Development Engineer recently graduated from the Master's in Data Science with experience in data analysis and interpretation and implementation and testing of Machine Learning models.
 </h3>
 
 <!--
